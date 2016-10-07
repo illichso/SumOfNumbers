@@ -1,0 +1,1 @@
+For sorted integer array and an specified integer, output numbers which sum equals to the specified integer.
